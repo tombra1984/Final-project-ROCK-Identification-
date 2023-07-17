@@ -17,7 +17,10 @@ The Support Vector had the best accuracy amoung all trained calssifiers with an 
 
 When the output probabilities are passed into a third model it was observed that the accuracy of predicting the rock name increased to above 95%
 
-![image](https://github.com/tombra1984/Final-project-ROCK-Identification-/assets/127909963/4bc8c68a-8cca-4d25-9b8d-c673f52e6ff3)
+![combined_thirdmodel](https://github.com/tombra1984/Final-project-ROCK-Identification-/assets/127909963/d60b91f0-16f8-4756-b1d2-0a1e756c4fdd)
+
+
+
 
 
 
