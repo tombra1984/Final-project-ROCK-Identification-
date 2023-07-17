@@ -13,5 +13,11 @@ For the Text descriptions several classifiers were trained in order to identify 
 
 ![image](https://github.com/tombra1984/Final-project-ROCK-Identification-/assets/127909963/69f2ecc3-6cd4-4f3b-8d71-3bb17d2df6ab)
 
+The Support Vector had the best accuracy amoung all trained calssifiers with an accuracy of 74%
+
+When the output probabilities are passed into a third model it was observed that the accuracy of predicting the rock name increased to above 95%
+
+![image](https://github.com/tombra1984/Final-project-ROCK-Identification-/assets/127909963/4bc8c68a-8cca-4d25-9b8d-c673f52e6ff3)
+
 
 
