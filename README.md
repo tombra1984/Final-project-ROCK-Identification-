@@ -7,6 +7,11 @@ In this project the rock images are first passed through an Efficientnet classif
 
 Unsupervised learning (clustering) was also performed on the text descriptions and it was observed that the words clustered the descriptions on the three rock types -Metamorphic, Igenous and Sedimentary rocks.
 
+
+![Clustering](https://github.com/tombra1984/Final-project-ROCK-Identification-/assets/127909963/0ca0a88c-f0f3-4191-a592-42910184c055)
+
+
+
 The best image classifier was the Efficientnet_b0 and had an accuracy of 74%
 
 ![image](https://github.com/tombra1984/Final-project-ROCK-Identification-/assets/127909963/c97f3d9d-23db-4ca3-b3af-cb4f61bd2b39)
