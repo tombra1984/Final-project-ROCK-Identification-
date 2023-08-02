@@ -19,6 +19,7 @@ When the output probabilities are passed into a third model it was observed that
 
 ![combined_thirdmodel](https://github.com/tombra1984/Final-project-ROCK-Identification-/assets/127909963/d60b91f0-16f8-4756-b1d2-0a1e756c4fdd)
 
+
 Thus the combination of the probability outputs from a text based model and an image based model as features into a third model increases the accuracy of predicting the name of a rock accurately to above 95%.
 
 
