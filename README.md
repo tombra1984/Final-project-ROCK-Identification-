@@ -1,7 +1,7 @@
 # Final-project-ROCK-Identification-
 The goal of this project was to accurately predict rock name from images and text descriptions of rocks. With the objective of finding if accuracy improves with combining image and text models.
 
-This project uses a total of 3500 images of 53 different rocks and descriptions of these rocks as input to predict rock name.
+The project used a total of 3500 images of 53 different rocks and descriptions of these rocks as input to predict rock name.
 
 In this project the rock images are first passed through an Efficientnet classifier to determine the accuracy and probability of predicting a particular name of a rock when an image is passed through. The text descriptions for each of the 53 classes are separately treated using NLP to also determine the accuracy and probability of predicting a rock name. The output probabilities from the image and text classifiers are then combined and passed as features through a third model to observe the effect on accurately identifying a rock.  
 
